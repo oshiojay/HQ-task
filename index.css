@@ -1,0 +1,13 @@
+*{
+    margin:0;
+    padding:0;
+}
+p{
+    color: black;
+    background-color: yellow;
+}
+
+h1{
+    color: blue;
+    background-color: red;
+}
